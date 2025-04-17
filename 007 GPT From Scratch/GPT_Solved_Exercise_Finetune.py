@@ -8,7 +8,7 @@ from transformers import AutoTokenizer
 
 
 # tmux new -s gpt_finetune
-# CUDA_VISIBLE_DEVICES=1 python 007_GPT_Solved_Exercise_Finetune.py
+# CUDA_VISIBLE_DEVICES=1 python GPT_Solved_Exercise_Finetune.py
 #
 # Detach from tmux session: Ctrl-b followed by d
 # Reattach to tmux session: tmux attach -t gpt_finetune
