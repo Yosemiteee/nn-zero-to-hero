@@ -8,7 +8,7 @@ from transformers import AutoTokenizer
 
 
 # tmux new -s gpt_opti
-# CUDA_VISIBLE_DEVICES=0 python 007_GPT_Solved_Exercise_Opti.py
+# CUDA_VISIBLE_DEVICES=0 python GPT_Solved_Exercise_Opti.py
 #
 # Detach from tmux session: Ctrl-b followed by d
 # Reattach to tmux session: tmux attach -t gpt_opti
