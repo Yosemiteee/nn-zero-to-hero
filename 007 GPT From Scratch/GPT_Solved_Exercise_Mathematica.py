@@ -8,7 +8,7 @@ from torch.optim.lr_scheduler import CosineAnnealingLR
 
 
 # tmux new -s gpt_math
-# CUDA_VISIBLE_DEVICES=1 python 007_GPT_Solved_Exercise_Mathematica.py
+# CUDA_VISIBLE_DEVICES=1 python GPT_Solved_Exercise_Mathematica.py
 #
 # Detach from tmux session: Ctrl-b followed by d
 # Reattach to tmux session: tmux attach -t gpt_math
